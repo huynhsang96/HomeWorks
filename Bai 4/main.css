@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.01);
+}
+
+.header h1{
+    font-size: 25px;
+}
+
+.header h2{
+    font-size: 20px;
+}t
+
+.header img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.body{
+    padding: 10px 200px;
+}
+
+.list2{
+    margin-left: 20px;
+}

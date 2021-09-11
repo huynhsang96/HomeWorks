@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table1{
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
+
+thead>tr>th{
+    background-color: orangered;
+    color: #fff;
+
+}
+
+.table1>tbody>tr>td{
+    color: blue;
+}
+
+.table1>tbody>tr{
+    line-height: 25px;
+}
+
+
+.col-1{
+    float: right;
+}
+
+.box-2 td{
+    color: orangered;
+}
+
+
+
